@@ -56,7 +56,8 @@ maven { url = uri("https://jitpack.io") }
 
 ```gradle
 dependencies {
-	        implementation 'com.github.Excelsior-Technologies-Community:Android_ChatStyles:1.0.0'
+	      	        implementation 'com.github.Excelsior-Technologies-Community:Android_SpotLightView:1.0.0'
+
 
 }
 ```
