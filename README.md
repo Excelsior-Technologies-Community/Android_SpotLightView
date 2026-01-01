@@ -34,9 +34,10 @@ A lightweight, customizable Android Spotlight / Coach‑Mark / Tutorial Overlay 
 # **Preview**
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/33ac7cd3-2951-4c3b-b40b-84f087b013f2"
+  <img src="https://github.com/user-attachments/assets/e53d38c3-c5da-4d5f-9c2b-0e5565fd0406"
        alt="Demo GIF"
        width="200">
+
 
 
 
