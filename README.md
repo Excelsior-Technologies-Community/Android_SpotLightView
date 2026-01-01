@@ -1,7 +1,7 @@
 # **🌟 SpotlightView**
 
 ---
-A lightweight, customizable Android Spotlight / Coach‑Mark / Tutorial Overlay library built using a Custom View. It helps you highlight important UI elements and guide users through your app with smooth animations and clean visuals.
+A lightweight, customizable Android Spotlight  / Tutorial Overlay library built using a Custom View. It helps you highlight important UI elements and guide users through your app with smooth animations and clean visuals.
 
 ---
 
@@ -25,7 +25,7 @@ A lightweight, customizable Android Spotlight / Coach‑Mark / Tutorial Overlay 
 
 - 🎞️ Smooth reveal and hide animations
 
-- 🧩 Simple API – easy to integrate
+
 
 
 
