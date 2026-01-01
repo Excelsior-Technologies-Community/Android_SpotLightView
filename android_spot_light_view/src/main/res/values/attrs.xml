@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SpotlightView">
+        <!-- Overlay color for the dimmed background -->
+        <attr name="overlayColor" format="color" />
+
+        <!-- Shape of the spotlight: circle, rectangle, or rounded rectangle -->
+        <attr name="spotlightShape" format="enum">
+            <enum name="circle" value="0" />
+            <enum name="rectangle" value="1" />
+            <enum name="roundedRectangle" value="2" />
+        </attr>
+
+        <!-- Padding around the target view -->
+        <attr name="spotlightPadding" format="dimension" />
+
+        <!-- Animation duration in milliseconds -->
+        <attr name="animationDuration" format="integer" />
+
+        <!-- Title text displayed above/below the spotlight -->
+        <attr name="titleText" format="string" />
+
+        <!-- Description text displayed below title -->
+        <attr name="descriptionText" format="string" />
+
+        <!-- Title text color -->
+        <attr name="titleTextColor" format="color" />
+
+        <!-- Description text color -->
+        <attr name="descriptionTextColor" format="color" />
+
+        <!-- Title text size -->
+        <attr name="titleTextSize" format="dimension" />
+
+        <!-- Description text size -->
+        <attr name="descriptionTextSize" format="dimension" />
+
+        <!-- Margin between spotlight and text -->
+        <attr name="textMargin" format="dimension" />
+
+        <!-- Enable/disable animation -->
+        <attr name="showAnimation" format="boolean" />
+    </declare-styleable>
+</resources>
